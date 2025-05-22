@@ -1,12 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on [ASUSTek Computer Inc.](https://www.asus.com/)
-- 👯 I’m looking to collaborate on games/apps project
-
-## <h3 align="left">GitHub Stats</h3>
-
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=rosdyana&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosdyana&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAwbWJlNWU0NmlpYTJwMXg0Zjh6ejBnZWc0b2g2c3hpbzd1a3ZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif)
